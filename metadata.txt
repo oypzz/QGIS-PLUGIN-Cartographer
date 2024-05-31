@@ -12,7 +12,7 @@ email=1970329479@qq.com
 
 about=
 tracker=http://bugs
-repository=http://repo
+repository=https://github.com/oypzz/QGIS-PLUGIN-Cartographer.git
 # End of mandatory metadata
 
 # Recommended items:
