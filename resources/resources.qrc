@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/plugins/CartoGrapher">
+    <file>3 点击.svg</file>
+    <file>3 签署.svg</file>
+    <file>3 删除.svg</file>
+    <file>icon.png</file>
+    <file>m.svg</file>
+  </qresource>
+  <qresource/>
+  <qresource/>
+</RCC>
