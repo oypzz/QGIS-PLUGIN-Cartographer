@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/plugins/CartoGrapher/">
+    <file>m.png</file>
+    <file>resources/click.svg</file>
+    <file>resources/delete.svg</file>
+    <file>resources/m.svg</file>
+    <file>resources/OpenRaster.svg</file>
+    <file>resources/OpenShp.svg</file>
+    <file>resources/Reproj.svg</file>
+    <file>resources/sign.svg</file>
+  </qresource>
+</RCC>

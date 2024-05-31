@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>resources/3 click.svg</file>
+    <file>resources/3 sign.svg</file>
+    <file>resources/3 delete.svg</file>
+  </qresource>
+</RCC>
